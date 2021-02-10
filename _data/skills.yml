@@ -1,18 +1,18 @@
 # Communications strategy
-- skill: &#91; C6, 1st &#93; Neural Language Model Enables Extremely Fast and Robust Routing on Interposer
+- skill: [C6, 1st] Neural Language Model Enables Extremely Fast and Robust Routing on Interposer
   description: Accepted in DesignCon, 2021
 
-- skill: \[C5, 2nd\] Deep Reinforcement Learning-based Interconnection Design for 3D X-Point Array Structure Considering Signal Integrity 
+- skill: [C5, 2nd] Deep Reinforcement Learning-based Interconnection Design for 3D X-Point Array Structure Considering Signal Integrity 
   description: <i>EDAPS</i>, 2020, <b>best paper*</b>
 
-- skill: \[C4, 2nd\] Policy Gradient Reinforcement Learning-based Optimal Decoupling Capacitor Design Method for 2.5-D/3-D ICs using Transformer Network
+- skill: [C4, 2nd] Policy Gradient Reinforcement Learning-based Optimal Decoupling Capacitor Design Method for 2.5-D/3-D ICs using Transformer Network
   description: <i>EDAPS</i>, 2020
 
-- skill: \[C3, Co\] Design and Analysis of Thermal Transmission Line based Embedded Cooling Structures for High Bandwidth Memory Module and 2.5 D/3D ICs
+- skill: [C3, Co] Design and Analysis of Thermal Transmission Line based Embedded Cooling Structures for High Bandwidth Memory Module and 2.5 D/3D ICs
   description: <i>EDAPS</i>, 2020
 
-- skill: \[C2, Co\] Deep Reinforcement Learning-based Through Silicon Via (TSV) Array Design Optimization Method considering Crosstalk
+- skill: [C2, Co] Deep Reinforcement Learning-based Through Silicon Via (TSV) Array Design Optimization Method considering Crosstalk
   description: <i>EDAPS</i>, 2020
 
-- skill: \[C1, 1st\] Reinforcement Learning-based Auto-router considering Signal Integrity
+- skill: [C1, 1st] Reinforcement Learning-based Auto-router considering Signal Integrity
   description: IEEE 29th Conference on Electrical Performance of Electronic Packaging and Systems (<i>EPEPS</i>), 2020
