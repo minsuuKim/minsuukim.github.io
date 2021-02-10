@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: http://minsuukim.github.io/sitemap.xml
