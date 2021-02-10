@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: AI/ML-based Prediction and Design Optimization of Signal Integrity on SSD High-speed Host Interface Channel 
+  role: sponsered by Samsung D.S 
+  duration: 2021 &mdash; Now
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Using machine learning techenics, we build fast prediction model of the high-speed host interface, including channel, via, etc. We provide efficient design automation tools based on deep reinforcement learning (DRL), where the reward is feeded by the prediction model.   
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Development of High-speed Connectors
+  role: sponsered by Korea Electronic Terminal (KET)
+  duration: 2020 &mdash; 2020
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: We develop of USB 3.2 Gen2 Type C connector, where the main goal is design connector with signal integrity for 10Gps datarate.
+  
