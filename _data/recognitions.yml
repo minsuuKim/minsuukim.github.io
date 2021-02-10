@@ -1,10 +1,10 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Interposer Routing by Reinforcement Learning
+  organization: AI Engineering Seminar in LG Electronics
+  year: 2020
+  summary: I presented candidate application of Deep Learning for 3D Integration, including floor planning and chip placement, and routing. I introduced my research on the novel routing method target High Bandwidth Memory (HBM) Interposer (part of my research on DesignCon (2021)). 
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Reinforcement Learning-based Auto-router for 3D Integration
+  organization: Samsung-KAIST cooperation Seminar
+  year: 2020
+  summary: In this seminar, I introduced a novel channel routing method using reinforcement learning on HBM interposer. A part of my researches on DesinCon (2021) and EPEPS (2020) is presented. 
