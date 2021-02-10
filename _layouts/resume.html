@@ -58,8 +58,7 @@
         <h3>(C: conference, J: journal, 1st: first-authored, 2nd : second-authored, Co: co-authored)</h3>
         {% for skill in site.data.skills %}
         <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.category }}</h4>
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <h4 class="resume-item-details">[{{ skill.category }}] {{ skill.skill }}</h4>
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
