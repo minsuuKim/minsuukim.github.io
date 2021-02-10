@@ -6,12 +6,12 @@
   role: sponsered by Samsung D.S 
   duration: 2021 &mdash; Now
   # url: "#"
-  description: Using machine learning technics, we build a fast prediction model of the high-speed host interface, including channel, via, etc. We provide efficient design automation tools based on deep reinforcement learning (DRL), where the prediction model feeds the reward.   
+  description: Using machine learning technics, we build a fast prediction model of the high-speed host interface, including channel, via, etc. We then provide an efficient deep reinforcement learning (DRL) framework for design optimization, where the prediction model feeds signal integrity-based reward to the DRL agent.   
 
 # Springfield Community Outreach Group
 - project: Development of High-speed Connectors
   role: sponsered by Korea Electronic Terminal (KET)
   duration: 2020 &mdash; 2020
   # url: "#"
-  description: We develop a USB 3.2 Gen2 Type C connector, where the main goal is to design a connector with signal integrity for 10Gps data.
+  description: We develop a USB 3.2 Gen2 Type C connector, where the main goal is to design a connector with signal integrity for 10Gps singaling.
   
