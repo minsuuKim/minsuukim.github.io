@@ -21,7 +21,7 @@ resume_contact_email:           "min-su@kaist.ac.kr"
 
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi, this is Minsu Kim. I'm pursuing an M.S. degree in the School of Electrical Engineering at KAIST. My adviser is Joungho Kim. My current research interest includes AI/ML/DL application to electrical design automation (EDA) for signal integrity (SI). I'm currently working on solving NP-hard routing problems by Deep Reinforcement Learning (DRL), which can be applied to PCB/Interposer routing. My target HW application is the GPU-Memory interconnection of the GDDR6 (PCB) module and HBM (Interposer) module.</p>"
+resume_header_intro: "<p>Hi, this is Minsu Kim. I'm pursuing an M.S. degree in the School of Electrical Engineering at KAIST advisef Prof. Joungho Kim. My current research interest includes AI/ML/DL application to electrical design automation (EDA) for signal integrity (SI). I'm currently working on solving NP-hard routing problems by Deep Reinforcement Learning (DRL), which can be applied to PCB/Interposer routing. My target HW application is the GPU-Memory interconnection of the GDDR6 (PCB) module and HBM (Interposer) module.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
