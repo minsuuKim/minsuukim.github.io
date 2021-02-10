@@ -1,29 +1,29 @@
 # Communications strategy
 - category : C7, 1st
   skill:  Neural Language Model Enables Extremely Fast and Robust Routing on Interposer
-  description: DesignCon, 2021, accepted as <i>talk (45m)</i>
+  description: DesignCon, 2021, accepted as oral presentation (45m)
 
 - category : C6, 2nd
   skill: Deep Reinforcement Learning-based Interconnection Design for 3D X-Point Array Structure Considering Signal Integrity 
-  description: <i>EDAPS</i>, 2020, accepted as <i>talk (15m)</i>, <b>best paper*</b>
+  description: <i>EDAPS</i>, 2020, accepted as oral presentation (15m), <b>best paper*</b>
 
 - category : C5, 2nd
   skill: Policy Gradient Reinforcement Learning-based Optimal Decoupling Capacitor Design Method for 2.5-D/3-D ICs using Transformer Network
-  description: <i>EDAPS</i>, 2020, accepted as  <i>talk (15m)</i>
+  description: <i>EDAPS</i>, 2020, accepted as  oral presentation (15m)
 
 - category : C4, Co
   skill: Deep Neural Network-based Lumped Circuit Modeling using Impedance Curve
-  description: <i>EDAPS</i>, 2020, accepted as <i>poster</i>
+  description: <i>EDAPS</i>, 2020, accepted as poster presentation
 
 
 - category : C3, Co
   skill: Design and Analysis of Thermal Transmission Line based Embedded Cooling Structures for High Bandwidth Memory Module and 2.5 D/3D ICs
-  description: <i>EDAPS</i>, 2020, accepted as <i>talk (15m)</i>
+  description: <i>EDAPS</i>, 2020, accepted as oral presentation (15m)
 
 - category : C2, Co
   skill: Deep Reinforcement Learning-based Through Silicon Via (TSV) Array Design Optimization Method considering Crosstalk
-  description: IEEE Electrical Design of Advanced Packaging and Systems (<i>EDAPS</i>), 2020, accepted as </>talk (15m)</i>
+  description: IEEE Electrical Design of Advanced Packaging and Systems (<i>EDAPS</i>), 2020, accepted as oral presentation (15m)
 
 - category : C1, 1st
   skill: Reinforcement Learning-based Auto-router considering Signal Integrity
-  description: IEEE 29th Conference on Electrical Performance of Electronic Packaging and Systems (<i>EPEPS</i>), 2020, accepted as <i>talk (15m)</i>
+  description: IEEE 29th Conference on Electrical Performance of Electronic Packaging and Systems (<i>EPEPS</i>), 2020, accepted as oral presentation (15m)
