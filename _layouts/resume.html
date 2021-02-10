@@ -55,9 +55,10 @@
         <header class="section-header">
           <h2>Publications</h2>
         </header>
-        <h4>(C: conference, J: journal, 1st: first-authored, 2nd : second-authored, Co: co-authored)</h4>
+        <h2>(C: conference, J: journal, 1st: first-authored, 2nd : second-authored, Co: co-authored)</h4>
         {% for skill in site.data.skills %}
         <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.category }}</h4>
           <h4 class="resume-item-details">{{ skill.skill }}</h4>
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
